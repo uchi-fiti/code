@@ -1,0 +1,25 @@
+Tous;;Tous
+Antananarivo;;Analamanga
+Antananarivo;;Bongolava
+Antananarivo;;Itasy
+Antananarivo;;Vakinankaratra
+Toamasina;;Alaotra-Mangoro
+Toamasina;;Analanjirofo
+Toamasina;;Atsinanana
+Fianarantsoa;;Amoron'i Mania
+Fianarantsoa;;Haute Matsiatra
+Fianarantsoa;;Ihorombe
+Fianarantsoa;;Vatovavy
+Fianarantsoa;;Fitovinany
+Mahajanga;;Boeny
+Mahajanga;;Betsiboka
+Mahajanga;;Melaky
+Mahajanga;;Sofia
+Antsiranana;;Tous
+Antsiranana;;Diana
+Antsiranana;;Sava
+Toliara;;Androy
+Toliara;;Anosy
+Toliara;;Atsimo-Andrefana
+Toliara;;Atsimo-Atsinanana
+Toliara;;Menabe

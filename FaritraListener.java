@@ -12,7 +12,7 @@ public class FaritraListener implements ActionListener{
             district = dt; 
     }
         @Override
-        public void actionPerformed(ActionEvent e){
+        public void actionPerformed(ActionEvent e) {
              String f = (String) Faritra.getSelectedItem();
              district.update(f);
         }

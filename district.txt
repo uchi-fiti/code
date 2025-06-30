@@ -1,0 +1,110 @@
+Tous;;Tous
+Analamanga;;Antananarivo-Atsimondrano
+Analamanga;;Antananarivo-Avaradrano
+Analamanga;;Antananarivo-Renivohitra
+Analamanga;;Ambohidratrimo
+Analamanga;;Ankazobe
+Analamanga;;Andramasina
+Analamanga;;Manjakandriana
+Bongolava;;Fenoarivobe
+Bongolava;;Tsiroanomandidy
+Itasy;;Arivonimamo
+Itasy;;Miarinarivo
+Itasy;;Soavinandriana
+Vakinankaratra;;Ambatolampy
+Vakinankaratra;;Antanifotsy
+Vakinankaratra;;Antsirabe-I
+Vakinankaratra;;Antsirabe-II
+Vakinankaratra;;Betafo
+Vakinankaratra;;Faratsiho
+Vakinankaratra;;Mandoto
+Alaotra-Mangoro;;Ambatondrazaka
+Alaotra-Mangoro;;Amparafaravola
+Alaotra-Mangoro;;Andilamena
+Alaotra-Mangoro;;Anosibe-An'ala
+Alaotra-Mangoro;;Moramanga
+Analanjirofo;;Fenoarivo-Atsinanana
+Analanjirofo;;Maroantsetra
+Analanjirofo;;Mananara-Avaratra
+Analanjirofo;;Sainte-Marie
+Analanjirofo;;Vavatenina
+Atsinanana;;Antanambao-Manampotsy
+Atsinanana;;Mahanoro
+Atsinanana;;Marolambo
+Atsinanana;;Toamasina-I
+Atsinanana;;Toamasina-II
+Atsinanana;;Vatomandry
+Amoron'i Mania;;Ambatofinandrahana
+Amoron'i Mania;;Ambositra
+Amoron'i Mania;;Fandriana
+Amoron'i Mania;;Manandriana
+Haute Matsiatra;;Ambalavao
+Haute Matsiatra;;Ambohimahasoa
+Haute Matsiatra;;Fianarantsoa-I
+Haute Matsiatra;;Ikalamavony
+Haute Matsiatra;;Isandra
+Haute Matsiatra;;Lalangina
+Haute Matsiatra;;Vohibato
+Ihorombe;;Iakora
+Ihorombe;;Ihosy
+Vatovavy;;Mananjary
+Vatovavy;;Nosy Varika
+Vatovavy;;Ifanadiana
+Fitovinany;;Ikongo
+Fitovinany;;Manakara
+Fitovinany;;Vohipeno
+Boeny;;Ambato-Boeny
+Boeny;;Mahajanga-I
+Boeny;;Mahajanga-II
+Boeny;;Marovoay
+Boeny;;Mitsinjo
+Boeny;;Soalala
+Betsiboka;;Maevatanana
+Betsiboka;;Kandreho
+Betsiboka;;Tsaratanana
+Melaky;;Ambatomainty
+Melaky;;Antsalova
+Melaky;;Besalampy
+Melaky;;Maintirano
+Melaky;;Morafenobe
+Sofia;;Analalava
+Sofia;;Antsohihy
+Sofia;;Bealanana
+Sofia;;Befandriana-Nord
+Sofia;;Boriziny (Port-Bergé)
+Sofia;;Mampikony
+Sofia;;Mandritsara
+Diana;;Ambanja
+Diana;;Ambilobe
+Diana;;Antsiranana-I
+Diana;;Antsiranana-II
+Diana;;Nosy-Be
+Sava;;Andapa
+Sava;;Antalaha
+Sava;;Sambava
+Sava;;Vohemar
+Androy;;Ambovombe
+Androy;;Beloha
+Androy;;Bekily
+Androy;;Tsiombe
+Anosy;;Amboasary-Sud
+Anosy;;Betroka
+Anosy;;Taolagnaro (Fort-Dauphin)
+Atsimo-Andrefana;;Ampanihy
+Atsimo-Andrefana;;Ankazoabo
+Atsimo-Andrefana;;Benenitra
+Atsimo-Andrefana;;Beroroha
+Atsimo-Andrefana;;Betioky
+Atsimo-Andrefana;;Morombe
+Atsimo-Andrefana;;Sakaraha
+Atsimo-Andrefana;;Toliara-I
+Atsimo-Andrefana;;Toliara-II
+Atsimo-Atsinanana;;Farafangana
+Atsimo-Atsinanana;;Midongy
+Atsimo-Atsinanana;;Vangaindrano
+Atsimo-Atsinanana;;Vondrozo
+Menabe;;Belo-sur-Tsiribihina
+Menabe;;Mahabo
+Menabe;;Manja
+Menabe;;Miandrivazo
+Menabe;;Morondava

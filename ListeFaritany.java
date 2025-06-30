@@ -8,7 +8,7 @@ import javax.swing.JComboBox;
 
 import model.Faritany;
 
-public class ListeFaritany extends JComboBox<String>{
+public class ListeFaritany extends JComboBox<String> {
     ArrayList<Faritany> faritany = new ArrayList<>();
     
         public ListeFaritany(){
@@ -34,7 +34,7 @@ public class ListeFaritany extends JComboBox<String>{
                 String faritany;
                           while( (faritany=reader.readLine())!=null){
                            String[] f = faritany.split("\n");
-                               for(String bloc : f){
+                               for(String bloc : f) {
                                     this.faritany.add(new Faritany(bloc));           
                          }
                         }

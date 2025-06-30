@@ -4,7 +4,7 @@ import java.util.EventListener;
 
 import defilante.*;
 
-public class FaritanyListener implements ActionListener{
+public class FaritanyListener implements ActionListener {
     ListeFaritany faritany;
     ListeFaritra faritra;
     public FaritanyListener(ListeFaritany fn ,ListeFaritra fr){

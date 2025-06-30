@@ -26,7 +26,7 @@ public class ListeDistrict extends JComboBox<String>{
     }
     public void update(String fn){
          this.removeAllItems();
-          if(District !=null )District.clear();
+          if(District != null) District.clear();
           try {
                 BufferedReader reader = new BufferedReader(new FileReader("../data/district.txt"));
                 System.out.println(fn);

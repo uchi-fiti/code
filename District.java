@@ -3,7 +3,7 @@ package model;
 public class District {
     String nom;
     String nomFaritra;
-    public District(String nom,String nomfaritra){
+    public District(String nom, String nomfaritra){
           this.nom = nom;
           nomFaritra=nomfaritra;
     }
